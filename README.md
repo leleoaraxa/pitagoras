@@ -1,0 +1,2 @@
+# pitagoras
+MBA Full Stack
